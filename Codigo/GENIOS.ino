@@ -1,5 +1,5 @@
 // JOGO DA MEMÓRIA - GENIOS
-// MEMBROS: Arhtur Oliveira Purcino, klarine Mendonça Silva, Pedro Henrique Sena Lima
+// MEMBROS: Arthur Oliveira Purcino, klarine Mendonça Silva, Pedro Henrique Sena Lima
 // Link do Thinkercad: https://www.tinkercad.com/things/8TiDhaiXTgY-stunning-borwo/editel?sharecode=ec7bfpsGE1sXplnLPmfAaP4-AOo3FD9d2W1bEdCW9Pw
 
 
