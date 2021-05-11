@@ -16,6 +16,7 @@
    - Arduino IDE;
    - Thinkercad;
 ### Montagem do circuito [Simulação](https://www.tinkercad.com/things/8TiDhaiXTgY-stunning-borwo/editel?sharecode=ec7bfpsGE1sXplnLPmfAaP4-AOo3FD9d2W1bEdCW9Pw)
+   Conecte os componentes conforme a firgura abaixo
 
   
 
