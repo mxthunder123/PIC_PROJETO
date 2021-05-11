@@ -3,7 +3,7 @@
    Nesse projeto desenvolvemos o jogo Genius, jogo de grande sucesso na década de 80. Consiste em um jogo da memória, no qual o jogador deve observar a sequencia    de leds piscando e repeti-la sem erros. 
 
 ## Descrição do projeto:
-### 1) Componentes:
+### 1) :list: Componentes:
    Para a realização desse projeto utilizamos os seguintes componentes:
    - 1 Arduino Uno;
    - 4 leds de cores diferentes;
@@ -19,7 +19,7 @@
    Conecte os componentes conforme a firgura abaixo. Os Leds foram ligados nas portas 11,10,9 e 8 e os botões nas portas 6,5,4 e 3. Verifique cuidadosamente os        cabos de ligação antes de ligar seu Arduino. Lembre-se que o Arduino deve estar totalmente desconectado da força enquanto você monta o circuito.
    ![](Esquemático/ESQUEMATICO_GENIOS.png)
   
-### 4):computer: Código:
+### 4) :computer: Código:
    Faça o download e abra o arquivo GENIOS.ino na IDE do Arduino.
    
 ### 5) :joystick: Como o projeto deve funcionar:
