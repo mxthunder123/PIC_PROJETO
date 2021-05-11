@@ -16,7 +16,7 @@
    - Arduino IDE;
    - Tinkercad;
 ### 3) :ballot_box_with_check: Montagem do circuito [Simulação](https://www.tinkercad.com/things/8TiDhaiXTgY-stunning-borwo/editel?sharecode=ec7bfpsGE1sXplnLPmfAaP4-AOo3FD9d2W1bEdCW9Pw)
-   Conecte os componentes conforme a firgura abaixo. Os Leds foram ligados nas portas 11,10,9 e 8 e os botões nas portas 6,5,4 e 3. Verifique cuidadosamente os        cabos de ligação antes de ligar seu Arduino. Lembre-se que o Arduino deve estar totalmente desconectado da força enquanto você monta o circuito.
+   Conecte os componentes conforme a figura abaixo. Os Leds foram ligados nas portas 11,10,9 e 8 e os botões nas portas 6,5,4 e 3. Verifique cuidadosamente os        cabos de ligação antes de ligar seu Arduino. Lembre-se que o Arduino deve estar totalmente desconectado da força enquanto você monta o circuito.
    ![](Esquemático/ESQUEMATICO_GENIOS.png)
   
 ### 4) :computer: Código:
@@ -30,7 +30,7 @@
    4. Se o jogador errar, acenderá um sinal sonoro indicando o fim do jogo. Apoś isso uma nova partida se inicia.
    5. Ganha o jogador que acertar mais jogadas, ou seja, memorizar a maior sequência de sons.
 
-#### :clapper: Caso queira ver o video no qual é mostrado o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
+#### :clapper: Caso queira ver o vídeo no qual é mostrado o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
 #### :purple_heart: Caso queira ter acesso ao repositório do projeto no GitHub basta clicar [aqui](https://github.com/phslima/PIC_PROJETO)
 
 
