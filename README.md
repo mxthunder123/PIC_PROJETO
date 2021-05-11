@@ -21,7 +21,7 @@
   
 ### 4) :computer: Código:
    Faça o download e abra o arquivo GENIOS.ino na IDE do Arduino.
-   [Genios.ino]()
+   [Genios.ino](https://github.com/phslima/PIC_PROJETO/tree/master/Codigo)
 ### 5) :joystick: Como o projeto deve funcionar:
    1. Ao executar o programa, todos os leds acenderão e é dado um sinal sonoro.
    2.  Aleatoriamente, acenderá o primeiro led entre os 4 leds do jogo. O programa irá aguardar que o jogador clique no botão correspondente.
