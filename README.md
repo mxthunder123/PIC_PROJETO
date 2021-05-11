@@ -30,8 +30,8 @@
    4. Se o jogador errar, acenderá um sinal sonoro indicando o fim do jogo. Apoś isso uma nova partida se inicia.
    5. Ganha o jogador que acertar mais jogadas, ou seja, memorizar a maior sequência de sons.
 
-#### Caso queira ver o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
-### Caso queira ter acesso ao repositório do projeto no GitHub basta clicar [aqui]
+#### :purple_heart: Caso queira ver o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
+#### :purple_heart: Caso queira ter acesso ao repositório do projeto no GitHub basta clicar [aqui](https://github.com/phslima/PIC_PROJETO)
 
 
   
