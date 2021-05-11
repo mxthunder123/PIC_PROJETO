@@ -3,7 +3,7 @@
    Nesse projeto desenvolvemos o jogo Genius, jogo de grande sucesso na década de 80. Consiste em um jogo da memória, no qual o jogador deve observar a sequencia    de leds piscando e repeti-la sem erros. 
 
 ## Descrição do projeto:
-### 1) :list: Componentes:
+### 1) 📒 Componentes:
    Para a realização desse projeto utilizamos os seguintes componentes:
    - 1 Arduino Uno;
    - 4 leds de cores diferentes;
@@ -12,10 +12,10 @@
    - 9 resistores de 220 e 330 ohms;
    - 19 jumpers;
    - 1 Protoboard;
-### 2) Softwares utilizados:
+### 2) 🖥️ Softwares utilizados:
    - Arduino IDE;
    - Thinkercad;
-### 3) Montagem do circuito [Simulação](https://www.tinkercad.com/things/8TiDhaiXTgY-stunning-borwo/editel?sharecode=ec7bfpsGE1sXplnLPmfAaP4-AOo3FD9d2W1bEdCW9Pw)
+### 3) :ballot_box_with_check: Montagem do circuito [Simulação](https://www.tinkercad.com/things/8TiDhaiXTgY-stunning-borwo/editel?sharecode=ec7bfpsGE1sXplnLPmfAaP4-AOo3FD9d2W1bEdCW9Pw)
    Conecte os componentes conforme a firgura abaixo. Os Leds foram ligados nas portas 11,10,9 e 8 e os botões nas portas 6,5,4 e 3. Verifique cuidadosamente os        cabos de ligação antes de ligar seu Arduino. Lembre-se que o Arduino deve estar totalmente desconectado da força enquanto você monta o circuito.
    ![](Esquemático/ESQUEMATICO_GENIOS.png)
   
