@@ -19,10 +19,10 @@
    Conecte os componentes conforme a firgura abaixo. Os Leds foram ligados nas portas 11,10,9 e 8 e os botões nas portas 6,5,4 e 3. Verifique cuidadosamente os        cabos de ligação antes de ligar seu Arduino. Lembre-se que o Arduino deve estar totalmente desconectado da força enquanto você monta o circuito.
    ![](Esquemático/ESQUEMATICO_GENIOS.png)
   
-### 4) Código:
+### 4):computer: Código:
    Faça o download e abra o arquivo GENIOS.ino na IDE do Arduino.
    
-### 5) Como o projeto deve funcionar:
+### 5) :joystick: Como o projeto deve funcionar:
    1. Ao executar o programa, todos os leds acenderão e é dado um sinal sonoro.
    2.  Aleatoriamente, acenderá o primeiro led entre os 4 leds do jogo. O programa irá aguardar que o jogador clique no botão correspondente.
       2.1. Cada led aceso tem um som correspondente.
@@ -30,7 +30,7 @@
    4. Se o jogador errar, acenderá um sinal sonoro indicando o fim do jogo. Apoś isso uma nova partida se inicia.
    5. Ganha o jogador que acertar mais jogadas, ou seja, memorizar a maior sequência de sons.
 
-#### :purple_heart: Caso queira ver o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
+#### :clapper: Caso queira ver o video no qual é mostrado o projeto montado e em execução basta clicar [aqui](https://drive.google.com/file/d/1h1jyK07l_1BTIVw9rjNBObkdOAVOMg_4/view)
 #### :purple_heart: Caso queira ter acesso ao repositório do projeto no GitHub basta clicar [aqui](https://github.com/phslima/PIC_PROJETO)
 
 
