@@ -1,5 +1,5 @@
 # 🕹️ JOGO DA MEMÓRIA - GENIUS 
-      ### 🤗 Membros: Arthur Oliveira Purcino, klarine Mendonça Silva, Pedro Henrique Sena Lima
+       🤗 Membros: Arthur Oliveira Purcino, klarine Mendonça Silva, Pedro Henrique Sena Lima
    Neste projeto desenvolvemos o jogo Genius, jogo de grande sucesso na década de 80. Consiste em um jogo da memória, no qual o jogador deve observar a sequencia    de leds piscando e repeti-la sem erros. 
 
 ## Descrição do projeto:
