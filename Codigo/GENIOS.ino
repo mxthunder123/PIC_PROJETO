@@ -78,7 +78,7 @@ void setup() {
 
   // Definindo o modo dos pinos dos Botões como entrada.
   for (int i = 0; i <= 3; i++) {
-    pinMode(pinButtons[i], INPUT);
+    pinMode(pinButtons[i], INPUT_PULLUP);
   }
 
  
@@ -224,7 +224,7 @@ void waitMove() {
 
     for (int i = 0; i <= 3; i++) {
 
-      if (digitalRead(pinButtons[i]) == HIGH) {
+      if (digitalRead(pinButtons[i]) == LOW) {
 
         // Dizendo qual foi o botao pressionado.
 
