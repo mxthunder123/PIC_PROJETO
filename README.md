@@ -9,7 +9,7 @@
    - 4 leds de cores diferentes;
    - 4 push buttons;
    - 1 buzzer;
-   - 9 resistores de 220 e 330 ohms;
+   - 9 resistores de 220 ohms e 330 ohms;
    - 19 jumpers;
    - 1 Protoboard;
 ### 2) 🖥️ Softwares utilizados:
